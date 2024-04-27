@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Background = () => {
   return (
     <div className='fixed w-full h-screen z-[2]'>
